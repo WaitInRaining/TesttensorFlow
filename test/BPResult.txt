@@ -1,0 +1,71 @@
+
+batch_size = 100
+learning_rate = 0.01
+epoches = 5
+
+input_num_units = 28*28
+output_num_units = 10
+hidden_num_units = 500
+一层隐藏层，500个隐藏神经元
+Epoch: 1 cost = 8.51553
+Epoch: 2 cost = 1.70788
+Epoch: 3 cost = 0.91800
+Epoch: 4 cost = 0.55742
+Epoch: 5 cost = 0.45852
+
+Training complete!
+Validation Accuracy: 0.9583
+
+五层隐藏层，每层500个单元
+Epoch: 1 cost = 267756.70731
+Epoch: 2 cost = 25992.00886
+Epoch: 3 cost = 13422.34765
+Epoch: 4 cost = 9698.89322
+Epoch: 5 cost = 7137.65149
+
+Training complete!
+Validation Accuracy: 0.9457
+
+五层隐藏层，每层100个单元
+Epoch: 1 cost = 3836.88853
+Epoch: 2 cost = 389.27787
+Epoch: 3 cost = 175.68763
+Epoch: 4 cost = 101.93652
+Epoch: 5 cost = 61.57716
+
+Training complete!
+Validation Accuracy: 0.8774
+迭代30次
+Epoch: 1 cost = 3667.94105
+Epoch: 2 cost = 335.56231
+Epoch: 3 cost = 151.86851
+Epoch: 4 cost = 85.55862
+Epoch: 5 cost = 55.41087
+Epoch: 6 cost = 38.57222
+Epoch: 7 cost = 26.53510
+Epoch: 8 cost = 20.29069
+Epoch: 9 cost = 16.05225
+Epoch: 10 cost = 12.53256
+Epoch: 11 cost = 8.99217
+Epoch: 12 cost = 6.54865
+Epoch: 13 cost = 5.48383
+Epoch: 14 cost = 3.90099
+Epoch: 15 cost = 3.44128
+Epoch: 16 cost = 2.35642
+Epoch: 17 cost = 1.78190
+Epoch: 18 cost = 1.11631
+Epoch: 19 cost = 1.00947
+Epoch: 20 cost = 0.76004
+Epoch: 21 cost = 0.67351
+Epoch: 22 cost = 0.43988
+Epoch: 23 cost = 0.64151
+Epoch: 24 cost = 0.37501
+Epoch: 25 cost = 0.55429
+Epoch: 26 cost = 0.27129
+Epoch: 27 cost = 0.38797
+Epoch: 28 cost = 0.32583
+Epoch: 29 cost = 0.35034
+Epoch: 30 cost = 0.20651
+
+Training complete!
+Validation Accuracy: 0.9411
